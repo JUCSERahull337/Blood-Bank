@@ -1,0 +1,20 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+}
+.slide-img img{
+    height: 95vh;
+}
+.doctor-img img{
+    height: 70vh;
+    width: 60vh;
+}
+.card-img img{
+    /* border: 2px solid red; */
+    height: 60vh;
+    width: 60vh;
+    margin: auto;
+    
+}
